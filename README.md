@@ -10,6 +10,34 @@ Intuito de demonstração de padrões de projeto e melhorias em:
 - Java - Spring Boot
 - SQL
 
+Intalações requeridas:
+JDK
+STS
+NodeJS
+AngularCLI: npm install -g @angular/cli
+VsCode
+Git
+
+Variáveis de ambiente:
+JAVA_HOME: C:\Program Files\Java\jdk-19
+M2_HOME: C:\apache-maven-3.8.6
+
+Path:
+%JAVA_HOME%\bin
+%M2_HOME%\bin
+
+Teste:
+java: java --version
+javadoc: javac
+node: node -v
+npm: npm -v
+angular: ng version
+git: git -v
+
+Extensões e Módulos:
+AngularService
+Bootstrap
+
 <h2>🦄 Autor</h2>
 
 <table>
