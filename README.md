@@ -17,6 +17,7 @@ NodeJS
 AngularCLI: npm install -g @angular/cli
 VsCode
 Git
+Heroku
 
 Variáveis de ambiente:
 JAVA_HOME: C:\Program Files\Java\jdk-19
@@ -33,6 +34,7 @@ node: node -v
 npm: npm -v
 angular: ng version
 git: git -v
+heroku: heroku -v
 
 Extensões e Módulos:
 AngularService
